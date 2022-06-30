@@ -1,5 +1,5 @@
-# Pensamento
-Um parágrafo da descrição do projeto vai aqui
+# Pensamento- entendo programação.
+Compreensão do projeto.
 
 ## 🚀 Começando
 
